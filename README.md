@@ -7,6 +7,30 @@ It delivers a clean desktop experience with essential development tools, termina
 
 ---
 
+FINE DOG 25 is a custom Ubuntu-based Linux distribution
+focused on developers and power users.
+
+## Features
+- KDE Plasma Desktop
+- Custom boot splash & branding
+- Pre-installed dev tools
+- Neofetch ASCII branding
+- Optimized performance
+
+## System Requirements
+- 4 GB RAM
+- 20 GB disk
+- amd64 CPU
+
+## Download
+[ISO Download Link]
+
+## Install
+- Flash ISO using Rufus / Ventoy
+- Boot → Install
+
+---
+
 ## ✨ Key Highlights
 
 - ⚡ Zero-setup coding environment  
@@ -67,11 +91,3 @@ It delivers a clean desktop experience with essential development tools, termina
 
 ---
 
-## ⚙️ Installation & Build Process
-
-🧱 This ISO is built using **Cubic**.
-
-Inside Cubic’s terminal, run the following script to install and configure the system automatically:
-
-```bash
-./install_all.sh
