@@ -1,7 +1,7 @@
 # 🐕 FINE DOG 25 – Developer Edition (DEV ISO)
 
 🚀 **FINE DOG 25 DEV ISO** is a fully automated, programmer-ready Linux distribution designed to get developers productive **immediately after boot**.  
-It ships with a modern desktop, a complete development stack, container tools, media apps, and collaboration software — **all pre-configured**.
+It ships with a modern desktop, a complete development stack, container tools, media apps, and collaboration software - **all pre-configured**.
 
 🎯 Ideal for **developers, DevOps engineers, testers, students, and power users**.
 
