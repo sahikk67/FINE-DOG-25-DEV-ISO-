@@ -1,89 +1,69 @@
 # 🐕 FINE DOG 25 – Developer Edition (DEV ISO)
 
-🚀 **FINE DOG 25 DEV ISO** is a fully automated, programmer-ready Linux distribution designed to get developers productive **immediately after boot**.  
-It ships with a modern desktop, a complete development stack, container tools, media apps, and collaboration software - **all pre-configured**.
+🚀 **FINE DOG 25 DEV ISO** is a programmer-ready Linux distribution designed to get developers productive **immediately after boot**.  
+It delivers a clean desktop experience with essential development tools, terminals, browsers, and media apps — **ready to use out of the box**.
 
-🎯 Ideal for **developers, DevOps engineers, testers, students, and power users**.
+🎯 Ideal for **developers, students, testers, and power users**.
 
 ---
 
 ## ✨ Key Highlights
 
-- ⚡ Zero-setup development environment  
-- 🧪 Ready for coding, testing, and deployment  
+- ⚡ Zero-setup coding environment  
 - 💻 Suitable for VM, bare-metal, and daily use  
 - 🎨 Clean, fast, productivity-focused UI  
+- 🧠 Lightweight but developer-friendly setup  
 
 ---
 
 ## 🖥 Desktop Environment
 
-- 🧩 **KDE Plasma (Standard)**  
-- 🚢 **Latte Dock** – quick application access  
+- 🧩 **KDE Plasma**
+- 🚢 **Latte Dock** – quick application access
 
 ---
 
 ## 🌐 Web Browsers
 
-- 🦊 **Firefox** (default)  
-- 🌍 **Chromium**  
+- 🦊 **Firefox** (default)
+- 🌍 **Chromium**
 
 ---
 
-## 🧑‍💻 Development Tools
 
 ### ✍️ Editors & IDEs
-- 📝 **Vim**  
-- 🧠 **Visual Studio Code**  
+- 🧠 **Visual Studio Code**
+- 📝 **Vim**
 
 ### 🧪 Programming Languages & Runtimes
-- 🐍 **Python 3** (pip, venv)  
-- 🟢 **Node.js** (npm)  
-- ☕ **OpenJDK 17**  
+- 🐍 **Python 3**
+- 🟢 **Node.js**
+- 📦 **npm**
 
-### 🛠 DevOps & Build Tools
-- 🌱 **Git**  
-- 🐳 **Docker**  
-- 📦 **Docker Compose**  
-- ⚙️ **build-essential**  
+### 🌱 Version Control
+- **Git**
 
 ### 🖤 Terminal & Shell
-- 💥 **Zsh** (default shell)  
-- 🖥 **Gnome Terminal**  
-- 🧵 **Tmux**  
-- 🗂 **Midnight Commander (MC)**  
+- 💥 **Zsh** (default shell)
+- 🖥 **Gnome Terminal**
+- 🧵 **Tmux**
+- 🗂 **Midnight Commander (MC)**
 
 ---
 
 ## 🎬 Media & Graphics
 
-- ▶️ **VLC**  
-- 🎞 **MPV**  
-- 🎨 **GIMP**  
-
----
-
-## 🤝 Collaboration & Productivity
-
-- 💬 **Discord**  
-- 🏢 **Slack**  
-- 🎥 **Zoom**  
-- 🎵 **Spotify**  
-- 📬 **Postman**  
-
----
-
-## 📺 Streaming & Recording
-
-- 🎙 **OBS Studio**  
+- ▶️ **VLC**
+- 🎞 **MPV**
+- 🎨 **GIMP**
 
 ---
 
 ## 🛠 System Utilities
 
-- 📊 **Htop**  
-- 🧾 **Neofetch**  
-- 🌐 **Curl**  
+- 📊 **Htop**
+- 🧾 **Neofetch**
+- 🌐 **Curl**
 
 ---
 
@@ -91,7 +71,7 @@ It ships with a modern desktop, a complete development stack, container tools, m
 
 🧱 This ISO is built using **Cubic**.
 
-Inside Cubic’s terminal, run the following script to install and configure all components automatically:
+Inside Cubic’s terminal, run the following script to install and configure the system automatically:
 
 ```bash
 ./install_all.sh
