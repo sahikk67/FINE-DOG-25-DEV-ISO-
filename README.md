@@ -131,6 +131,13 @@ and is **not affiliated with Canonical or Ubuntu**.
 
 ---
 
+
+## 📦 ISO Size
+- Approximately **12.6 GB**
+
+
+---
+
 ## 🐕 FINE DOG 25
 
 > _Build fast. Code free. Stay sharp._
