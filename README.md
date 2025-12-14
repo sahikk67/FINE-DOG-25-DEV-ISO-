@@ -119,7 +119,7 @@ Everything is pre-configured so you can start coding, testing, or building **fro
 ## 👨‍💻 Developer
 
 - **Created by:** Sahik  
-- **Project:** FINE DOG Linux  
+- **Project:** FINE DOG 25
 - **Edition:** Developer Edition (DEV ISO)
 
 ---
