@@ -1,6 +1,6 @@
 # 🐕 FINE DOG 25 – Developer Edition (DEV ISO)
 
-<img src="https://files.catbox.moe/w8rf3i.jpg" alt="FINE DOG 25 Banner" width="100%">
+<img src="https://files.catbox.moe/w8rf3i.jpg" alt="FINE DOG 25 Banner" width="70%">
 
 
 🚀 **FINE DOG 25 DEV ISO** is a programmer-ready Linux distribution designed to get developers productive **immediately after boot**.  
