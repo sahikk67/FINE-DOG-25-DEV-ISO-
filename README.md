@@ -1,10 +1,13 @@
 # 🐕 FINE DOG 25 – Developer Edition (DEV ISO)
 
+![FINE DOG 25 Banner](https://files.catbox.moe/479ilx.jfif)
+
+
 🚀 **FINE DOG 25 DEV ISO** is a programmer-ready Linux distribution designed to get developers productive **immediately after boot**.  
 It delivers a clean, fast desktop experience with essential development tools, terminals, browsers, and media apps — **ready to use out of the box**.
 
 🎯 Ideal for **developers, students, testers, and power users**.
-https://files.catbox.moe/479ilx.jfif
+
 ---
 
 ## 🧩 About
