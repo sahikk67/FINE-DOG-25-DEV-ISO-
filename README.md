@@ -133,7 +133,7 @@ and is **not affiliated with Canonical or Ubuntu**.
 
 
 ## 📦 ISO Size
-- Approximately **12.6 GB**
+- Approximately **7.20 GiB**
 
 
 ---
