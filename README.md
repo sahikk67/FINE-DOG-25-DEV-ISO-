@@ -4,7 +4,7 @@
 It delivers a clean, fast desktop experience with essential development tools, terminals, browsers, and media apps — **ready to use out of the box**.
 
 🎯 Ideal for **developers, students, testers, and power users**.
-
+https://files.catbox.moe/479ilx.jfif
 ---
 
 ## 🧩 About
