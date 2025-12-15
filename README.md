@@ -10,6 +10,18 @@ It delivers a clean, fast desktop experience with essential development tools, t
 
 ---
 
+
+
+
+
+* This isn't complete distro yet!. There have been more changes
+  and fixes than are listed here. This release contains a
+  lot of bug fixes. 
+
+
+---
+
+
 ## 🧩 About
 
 **FINE DOG 25** is a custom **Ubuntu-based Linux distribution** focused on  
