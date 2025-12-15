@@ -105,9 +105,9 @@ Everything is pre-configured so you can start coding, testing, or building **fro
 ## 📥 Download
 
 ➡️ **ISO Download:**  
-`https://mega.nz/file/P0oAQAqI#4cp5CtvWAe1l4oCe2FLUrY5inFCTfic-l6KgQmZHJzQ`
+https://mega.nz/file/P0oAQAqI#4cp5CtvWAe1l4oCe2FLUrY5inFCTfic-l6KgQmZHJzQ
 
-(Release ISO will be published on GitHub Releases)
+(Future FINE DOG Release ISO will be published on GitHub Releases)
 
 ---
 
