@@ -11,17 +11,6 @@ It delivers a clean, fast desktop experience with essential development tools, t
 ---
 
 
-
-
-
-* This isn't complete distro yet!. There have been more changes
-  and fixes than are listed here. This release contains a
-  lot of bug fixes. 
-
-
----
-
-
 ## 🧩 About
 
 **FINE DOG 25** is a custom **Ubuntu-based Linux distribution** focused on  
@@ -116,7 +105,7 @@ Everything is pre-configured so you can start coding, testing, or building **fro
 ## 📥 Download
 
 ➡️ **ISO Download:**  
-`[Coming Soon]`
+`https://mega.nz/file/P0oAQAqI#4cp5CtvWAe1l4oCe2FLUrY5inFCTfic-l6KgQmZHJzQ`
 
 (Release ISO will be published on GitHub Releases)
 
@@ -152,6 +141,22 @@ and is **not affiliated with Canonical or Ubuntu**.
 
 
 ---
+
+
+
+
+> ⚠️ **NOTICE**
+>
+> This is **not a complete distribution yet**.
+>
+> There have been many additional changes, improvements, and fixes that are
+> not fully listed here. This release focuses mainly on stability and includes
+> a large number of bug fixes and internal improvements.
+
+
+
+---
+
 
 ## 🐕 FINE DOG 25
 
